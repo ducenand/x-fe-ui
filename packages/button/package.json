@@ -1,0 +1,22 @@
+{
+  "name": "@x-fe-ui/button",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "adu <ducencen@100tal.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/button.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.100tal.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
